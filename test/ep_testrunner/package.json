@@ -1,0 +1,9 @@
+{
+  "name": "ep_testrunner",
+  "version": "0.0.1",
+  "author": "Rasmus Erik",
+  "description": "test",
+  "dependencies": {
+  },
+  "engines": {"node": "*"}
+}
